@@ -4,6 +4,7 @@ This project was created with:
 - TypeScript
 - GraphQL
 - TypeGraphQL
+- TypeORM
 - JWT
 - PostgreSQL/MySQL
 
